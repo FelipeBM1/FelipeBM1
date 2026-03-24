@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Estudiante de ingeniería de sistemas de la Pontificia Universidad Javeriana.<br>🎲 Futbol</p>
+<p align="left">📚 Egresado de ingeniería de sistemas de la Pontificia Universidad Javeriana.<br>🎲 Futbol</p>
 
 ###
 
